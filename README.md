@@ -28,9 +28,9 @@ Chord Type (1 .. 5)
 - parameter 2  
 Octave (1 .. 6)
 - parameter 3  
-  1. Pulse
-  1. Saw
-  1. Tri
+  1: Pulse  
+  2: Saw  
+  3: Tri
 
 # How to build
 1. Clone (or download) and setup [logue-sdk](https://github.com/korginc/logue-sdk).
