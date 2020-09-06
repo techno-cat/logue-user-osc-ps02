@@ -1,5 +1,5 @@
 # Prototype Series No.02
-Chord-like sounds with a ribbon controller.
+Yet another arpegglator.
 
 ## Preparation
 - OSC
